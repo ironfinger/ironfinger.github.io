@@ -1,9 +1,9 @@
 @media (min-width: 700px) {
     .parallax-container {
-			height: 700px;
+			height: 800px;
 		}
 }
-<
+
 
 body{
 	background-size: cover;
@@ -13,7 +13,7 @@ body{
 
 
 .parallax-container {
-	height: 1300px;
+	height: 1100px;
 }
 
 nav{
