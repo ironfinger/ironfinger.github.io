@@ -4,12 +4,6 @@
 		}
 }
 
-@media (min-width: 2560){
-	.parallax-container{
-		height: 600px;
-	}	
-}
-
 body{
 	background-size: cover;
 	background-repeat: no-repeat;
