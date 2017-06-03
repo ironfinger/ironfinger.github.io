@@ -31,6 +31,17 @@ nav{
 	color: white !important;
 }
 
+.mainTitle {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	margin-top: 15%;
+	font-size: 200px;
+	
+	color: white;
+	font-family: 'Mogra', cursive;
+}
+
 #mainSection {
 	height: 50em;
 }

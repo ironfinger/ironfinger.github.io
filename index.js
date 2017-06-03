@@ -3,11 +3,11 @@ $(document).ready(function(){
 });
 
 var options = [
-	{selector: '#row1', offset: 400, callback: function(el) {
-		Materialize.showStaggeredList($(el));
+	{selector: "#row2", offset: 0, callback: function(el) {
+		Materialize.fadeInImage($(el));
 	}},
-	{selector: '#row2', offset: 400, callback: function(el){ 
-		Materialize.showStaggeredList($(el));
+	{selector: "#row3", offset: 0, callback: function(el) {
+		Materialize.fadeInImage($(el));
 	}}
 ];
-Materialize.scrollFire(optons);
+Materialize.scrollFire(options);
