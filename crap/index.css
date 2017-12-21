@@ -1,0 +1,47 @@
+@media (min-width: 700px) {
+    .parallax-container {
+			height: 800px;
+		}
+}
+
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+nav{
+	background-color: #92ea9f ;
+}
+
+.parallax-container {
+	height: 1100px;
+}
+
+.nav-text{ 
+	color:black !important;
+	font-size:20px;
+	background-color: #69f0ae;
+}
+
+.brand-logo{
+	background-color: rgba(255, 255, 255, 0);
+}
+
+.nav-text:hover{
+	color: white !important;
+}
+
+.mainTitle {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	margin-top: 15%;
+	font-size: 200px;
+	
+	color: white;
+	font-family: 'Mogra', cursive;
+}
+
+#mainSection {
+	height: 50em;
+}
